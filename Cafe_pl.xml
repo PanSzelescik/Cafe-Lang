@@ -81,8 +81,8 @@ towarzystwa"  />
 			<text id="alert_invitefriend_myname" name="Twoje imię:"  />
 			<text id="alert_invitefriend_name" name="Imiona przyjaciół:"  />
 			<text id="alert_invitefriend_title" name="Zaproś przyjaciół"  />
-			<text id="alert_jobhelp_copy1" name="1. Zabierz jedzenie z blatu\n2. Obsługuj oczękujących gości"  />
-			<text id="alert_jobhelp_copy2" name="1. Zabierz talerze ze stołu (także więcej)\n2. Połóż na blacie"  />
+			<text id="alert_jobhelp_copy1" name="1. Weź jedzenie z blatu\n2. Obsługuj oczekujących gości"  />
+			<text id="alert_jobhelp_copy2" name="1. Zabierz talerze ze stołu \n2. Połóż na blacie"  />
 			<text id="alert_jobhelp_header1" name="Obsługuj gości"  />
 			<text id="alert_jobhelp_header2" name="Posprzątaj talerze"  />
 			<text id="alert_jobhelp_title" name="Twoje zadania"  />
