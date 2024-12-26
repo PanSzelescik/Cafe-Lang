@@ -439,9 +439,9 @@ Brązowy czas: {3} godzin"  />
 			<text id="dialogwin_coop_timeleft" name="Pozostały czas:"  />
 			<text id="dialogwin_coop_txt_noactive" name="Chwilowo nie masz żadnych aktywnych Co-Ops.\nPo prostu zacznij jakąś!"  />
 			<text id="dialogwin_coop_txt_title" name="CO-OPS"  />
-			<text id="dialogwin_decoshophelp_copy" name="Kiedy przeciągniesz swoje meble lub dekoracje na listwę a NIE na kasę to zostaną one zmagazynowane.\nKiedy będziesz chciał umieścić je od nowa w swojej Café nię będziesz musiał za to płacić\nLiczbę każdego przedmiotu zobaczysz na czerwonej naklejce."  />
+			<text id="dialogwin_decoshophelp_copy" name="Kiedy przeciągniesz swoje meble lub dekoracje na listę a NIE na kasę to zostaną one zmagazynowane.\nKiedy będziesz chciał umieścić je ponownie w swojej Café nie będziesz musiał za to płacić\nLiczbę każdego posiadanego przedmiotu zobaczysz na czerwonej naklejce."  />
 			<text id="dialogwin_decoshophelp_copy_1" name="Meble i dekoracje mają odpowiedni poziom luksusu, który oczywiście wpływa na luksusowość twojej restauracji. Jak luksusowa jest Twoja Café?"  />
-			<text id="dialogwin_decoshophelp_title" name="Magazynować meble/dekoracje?"  />
+			<text id="dialogwin_decoshophelp_title" name="Magazynowanie mebli i dekoracji"  />
 			<text id="dialogwin_decoshophelp_title_1" name="Poziom Luksusu?"  />
 			<text id="dialogwin_dishmastery_copy_0" name="Właśnie zarobiłeś gwiazdkę za {0}!"  />
 			<text id="dialogwin_dishmastery_copy_1" name="Daj swoim przyjaciołom kilka porcji!"  />
