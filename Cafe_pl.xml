@@ -57,7 +57,7 @@ towarzystwa"  />
 			<text id="alert_counter_outofreach_title" name="Uwaga!"  />
 			<text id="alert_dekoshop_humanwaiter_copy" name="Dopóki pracuje u Ciebie inny gracz jako kelner nie możesz włączyć trybu przebudowy."  />
 			<text id="alert_dekoshop_humanwaiter_title" name="Nie działa!"  />
-			<text id="alert_dekoshop_kickplayer_copy" name="Inni gracze są u Ciebie w café. Jeśli teraz przejdziesz do modułu dekoracji, wyrzucisz ich z twojego café"  />
+			<text id="alert_dekoshop_kickplayer_copy" name="Inni gracze są u Ciebie w café. Jeśli teraz przejdziesz do modułu dekoracji, wyrzucisz ich ze swojej café"  />
 			<text id="alert_dekoshop_kickplayer_title" name="Uwaga!"  />
 			<text id="alert_FancyCooking_copy" name="Czy chcesz ulepszyć potrawę zarabiając dzięki temu {0} punktów xp i {1} porcji?"  />
 			<text id="alert_FancyCooking_title" name="Fantazyjne składniki"  />
