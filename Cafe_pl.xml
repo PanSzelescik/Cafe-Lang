@@ -128,7 +128,7 @@ Jeśli je zmagazynujesz, to pozostałe porcje zmarnują się!"  />
 			<text id="alert_stafffire_title" name="Zatrudnij kelnera?"  />
 			<text id="alert_staffhire_copy" name="Podaj imię Twojego kelnera."  />
 			<text id="alert_staffhire_title" name="Zatrudnij"  />
-			<text id="alert_storefull_copy" name="Kuchenka jest pełna! Musisz sprzedać produkty aby uzyskać trochę miejsca!"  />
+			<text id="alert_storefull_copy" name="Lodówka jest pełna! Musisz sprzedać produkty aby uzyskać trochę miejsca!"  />
 			<text id="alert_storefull_title" name="Lodówka pełna!"  />
 			<text id="alert_stove_outofreach_copy" name="Kuchenka nie jest dostępna. Spróbuj coś przestawić."  />
 			<text id="alert_stove_outofreach_title" name="Uwaga!"  />
