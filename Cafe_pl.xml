@@ -854,7 +854,7 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 		</ingame_tooltips>
 		<ingredients>
 			<text id="ingredient_apple" name="Jabłko"  />
-			<text id="ingredient_bacon" name="Słonina"  />
+			<text id="ingredient_bacon" name="Boczek"  />
 			<text id="ingredient_bakingmix" name="Fix do ciasta"  />
 			<text id="ingredient_ballpepper" name="Papryka"  />
 			<text id="ingredient_banana" name="Banany"  />
@@ -921,7 +921,7 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="panelwin_deco_dragtip_title" name="Wskazówka"  />
 			<text id="panelwin_deco_nomore_expansion" name="Na razie nie są dostepne żadne poszerzenia."  />
 			<text id="panelwin_deco_objectcount_counter" name="Musisz osiągnąć poziom {0} aby kupić kolejny blat. Możesz tutaj przeciągnąć z Twojej café stary aby móc kupić inny blat."  />
-			<text id="panelwin_deco_objectcount_fridge" name="Musisz osiągnąć poziom {0} aby kupić kolejną lodówkę. Możesz tutaj  przeciągnąć z Twojej café starą lodówkę aby móc kupić inną."  />
+			<text id="panelwin_deco_objectcount_fridge" name="Musisz osiągnąć poziom {0} aby kupić kolejną lodówkę. Możesz tutaj przeciągnąć z Twojej café starą lodówkę aby móc kupić inną."  />
 			<text id="panelwin_deco_objectcount_nomore_counter" name="Na początku nie możesz kupić kolejnego blatu!"  />
 			<text id="panelwin_deco_objectcount_nomore_fridge" name="Na początku nie możesz kupić kolejnej lodówki!"  />
 			<text id="panelwin_deco_objectcount_nomore_stove" name="Na początku nie możesz kupić kolejnej kuchenki!"  />
@@ -935,8 +935,8 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="panelwin_login_rememberpassword" name="Zapisz hasło"  />
 			<text id="panelwin_name_cafe" name="CAFÉ"  />
 			<text id="panelwin_social_bot" name="Café-chat"  />
-			<text id="panelwin_social_comein" name="przyszedł do café "  />
-			<text id="panelwin_social_comeinmarketplace" name="przyszedł na rynek "  />
+			<text id="panelwin_social_comein" name="przyszedł do café"  />
+			<text id="panelwin_social_comeinmarketplace" name="przyszedł na rynek"  />
 			<text id="panelwin_social_goout" name="opuścił café "  />
 			<text id="panelwin_social_gooutmarketplace" name="opuścił rynek"  />
 			<text id="panelwin_social_noingamefriends" name="Nie masz żadnych przyjaciół!"  />
@@ -945,7 +945,7 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="panelwin_social_standardanswer" name="Wkrótce będzie można tutaj czatować z innymi graczami!"  />
 			<text id="panelwin_social_welcome_marketplace" name="Witamy! Kliknij na czarną tablicę jeśli szukasz pracy!"  />
 			<text id="panelwin_social_welcome_mycafe" name="Witamy"  />
-			<text id="panelwin_social_writeable" name="Tylko osoby zarejestrowane, które osiągneły 1 poziom mogą używać czatu."  />
+			<text id="panelwin_social_writeable" name="Tylko osoby zarejestrowane, które osiągnęły 1 poziom mogą używać czatu."  />
 		</panels>
 		<preparestep>
 			<text id="preparestep_bananasplit_banana" name="obrać banany"  />
@@ -1121,7 +1121,7 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="preparestep_pizza_tomato" name="zrobić puree z pomidorów"  />
 			<text id="preparestep_porkroastwithcrackling_carrots" name="obrać marchewkę"  />
 			<text id="preparestep_porkroastwithcrackling_garlic" name="wycisnąć czosnek"  />
-			<text id="preparestep_porkroastwithcrackling_meat" name="pokroić  mięso"  />
+			<text id="preparestep_porkroastwithcrackling_meat" name="pokroić mięso"  />
 			<text id="preparestep_porkroastwithcrackling_onion" name="posiekać cebulę"  />
 			<text id="preparestep_potatosalad_cucumber" name="pokroić ogórki"  />
 			<text id="preparestep_potatosalad_oil" name="otwórzyć olej"  />
@@ -1149,13 +1149,13 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="preparestep_spagetti_mincemeat" name="przyprawić mięso mielone"  />
 			<text id="preparestep_spagetti_pasta" name="gotować makraon"  />
 			<text id="preparestep_spagetti_tomato" name="pokroić pomidory"  />
-			<text id="preparestep_spareribs_meat" name="pokroić  mięso"  />
+			<text id="preparestep_spareribs_meat" name="pokroić mięso"  />
 			<text id="preparestep_spareribs_oil" name="odmierzyć olej"  />
 			<text id="preparestep_spareribs_onion" name="posiekać cebulę"  />
 			<text id="preparestep_spareribs_tomato" name="zrobić puree z pomidorów"  />
 			<text id="preparestep_steakkidneypie_flour" name="przesiać mąkę"  />
 			<text id="preparestep_steakkidneypie_kidney" name="podzielić nerki"  />
-			<text id="preparestep_steakkidneypie_meat" name="pokroić  mięso"  />
+			<text id="preparestep_steakkidneypie_meat" name="pokroić mięso"  />
 			<text id="preparestep_steakkidneypie_onion" name="posiekać cebulę"  />
 			<text id="preparestep_steak_butter" name="dodać masło"  />
 			<text id="preparestep_steak_lettuce" name="umyć sałatę"  />
@@ -1164,7 +1164,7 @@ Zagraj w Goodgame Café i otwórz własny biznes, zaskocz klientów swoimi umiej
 			<text id="preparestep_steak_tomato" name="pokroić pomidory"  />
 			<text id="preparestep_stewedrhubarb_rhubarb" name="pokroić rabarbar"  />
 			<text id="preparestep_stewedrhubarb_sugar" name="zkarmelizować cukier"  />
-			<text id="preparestep_stew_meat" name="pokroić  mięso"  />
+			<text id="preparestep_stew_meat" name="pokroić mięso"  />
 			<text id="preparestep_stew_oil" name="podgrzać olej"  />
 			<text id="preparestep_stew_onion" name="posiekać cebulę"  />
 			<text id="preparestep_strawberrycake_cream" name="ubić śmietanę"  />
