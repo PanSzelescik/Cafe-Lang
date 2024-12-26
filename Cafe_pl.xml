@@ -509,8 +509,8 @@ Brązowy czas: {3} godzin"  />
 			<text id="dialogwin_ingredient_meat" name="Mięso"  />
 			<text id="dialogwin_ingredient_notinstock" name="Dzisiaj go nie ma!"  />
 			<text id="dialogwin_ingredient_shoplayer" name="Sklep "  />
-			<text id="dialogwin_ingredient_storecapacity" name="Pojemność:"  />
-			<text id="dialogwin_ingredient_storeinused" name="W lodówce:"  />
+			<text id="dialogwin_ingredient_storecapacity" name="Pojemność: "  />
+			<text id="dialogwin_ingredient_storeinused" name="W lodówce: "  />
 			<text id="dialogwin_ingredient_storelayer" name="Lodówka"  />
 			<text id="dialogwin_ingredient_vegatable" name="Wegetariański"  />
 			<text id="dialogwin_instantcooking_copy" name="Czy chcesz gotować ekspresowo? Możliwe jeszcze {0} razy!"  />
@@ -1516,7 +1516,7 @@ w kole fortuny!"  />
 			<text id="tt_CafeMasteryDialog_silverstar" name="Otrzymaj więcej punktów XP!"  />
 			<text id="tt_CafeNamePanel_mc_luxury" name="Poziom luksusu Twojej Café"  />
 			<text id="tt_CafeNamePanel_mc_rating" name="Popularność Twojej café"  />
-			<text id="tt_CafeOptionPanel_btn_blockfriends" name="Zablokuj zaproszenie"  />
+			<text id="tt_CafeOptionPanel_btn_blockfriends" name="Zablokuj zaproszenia"  />
 			<text id="tt_CafeOptionPanel_btn_bugreport" name="Zgłoś nam błąd"  />
 			<text id="tt_CafeOptionPanel_btn_changePass" name="Zmień hasło"  />
 			<text id="tt_CafeOptionPanel_btn_custom" name="Zmień ubranie"  />
