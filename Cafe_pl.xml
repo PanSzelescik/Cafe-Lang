@@ -1586,7 +1586,7 @@ Powodzenia!"  />
 				<text id="generic_alert_bug" name="Błąd"  />
 				<text id="generic_alert_connection_failed_copy" name="Na serwerze prowadzone są teraz prace techniczne. Spróbuj później!"  />
 				<text id="generic_alert_connection_failed_title" name="Prace w toku"  />
-				<text id="generic_alert_connection_lost_copy" name="Połączenie z grą zostanie przerwane. Spróbuj ponownie się połączyć."  />
+				<text id="generic_alert_connection_lost_copy" name="Połączenie z grą zostało utracone. Spróbuj ponownie się połączyć."  />
 				<text id="generic_alert_connection_lost_description" name="Właśnie trwają prace techniczne w celu wprowadzenia nowej aktualizacji, opcji w grze lub usuwania błędów. &lt;br&gt;&lt;br&gt; Pracujemy tak szybko jak jest to możliwe abyś mógł/a szybko zagrać w grę."  />
 				<text id="generic_alert_connection_lost_promo" name="Może w międzyczasie zobaczysz nasze inne gry?"  />
 				<text id="generic_alert_connection_lost_thanks" name="Dziękujemy za zrozumienie!"  />
