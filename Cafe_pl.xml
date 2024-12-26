@@ -407,7 +407,7 @@ Jeśli je zmagazynujesz, to pozostałe porcje zmarnują się!"  />
 			<text id="dialogwin_clearstove_btn_cancel" name="Zatrzymaj"  />
 			<text id="dialogwin_clearstove_btn_ok" name="Wyrzuć"  />
 			<text id="dialogwin_clearstove_copy" name="Masz jeszcze dostępną {0} razy opcję 'gotowania ekspresowego'."  />
-			<text id="dialogwin_clearstove_title" name="Na tej kuchence bedzie gotowana potrawa. Co chcesz z tym zrobić?"  />
+			<text id="dialogwin_clearstove_title" name="Na tej kuchence jest gotowana potrawa. Co chcesz z nią zrobić?"  />
 			<text id="dialogwin_cookbook_income" name="{0} za porcję"  />
 			<text id="dialogwin_cookbook_readyin" name="Gotowe za: {0}"  />
 			<text id="dialogwin_cookbook_servings" name="Porcji: {0}"  />
