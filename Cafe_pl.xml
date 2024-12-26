@@ -1667,7 +1667,7 @@ Powodzenia!"  />
 				<text id="generic_moderator" name="Mod"  />
 				<text id="generic_month" name="Miesiąc"  />
 				<text id="generic_months" name="Miesięcy"  />
-				<text id="generic_music" name="Muzyka on/off"  />
+				<text id="generic_music" name="Muzyka wł./wył."  />
 				<text id="generic_name" name="Imię"  />
 				<text id="generic_news" name="Nowe hasło"  />
 				<text id="generic_options" name="Ustawienia"  />
@@ -1676,7 +1676,7 @@ Powodzenia!"  />
 				<text id="generic_second" name="sekunda"  />
 				<text id="generic_seconds" name="sekundy"  />
 				<text id="generic_second_short" name="Sek"  />
-				<text id="generic_sound" name="Dźwięk on/off"  />
+				<text id="generic_sound" name="Dźwięk wł./wył."  />
 				<text id="generic_support" name="Support"  />
 				<text id="generic_today" name="Dzisiaj"  />
 				<text id="generic_tomorrow" name="Jutro"  />
